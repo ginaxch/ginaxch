@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Gina Cheng
 
-<!--
-**ginaxch/ginaxch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Case Western Reserve University pursuing opportunities in Data Analytics, Business Intelligence, and Software Engineering.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Analytics
+- SQL
+- PostgreSQL
+- Tableau
+- Power BI (Learning)
+- Excel
+- Data Visualization
+- Data Modeling
+
+### Programming
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Tableau Public
+
+---
+
+## Featured Data Analytics Projects
+
+### SaaS Customer Analytics Dashboard
+Interactive Tableau dashboard analyzing SaaS revenue, churn, customer engagement, and feature adoption.
+
+### SaaS Revenue Engagement Pipeline
+PostgreSQL analytics project using joins, CTEs, window functions, and KPI reporting.
+
+### Spotify Global Trends Dashboard
+Interactive dashboard analyzing Spotify streaming patterns and artist performance.
+
+### Top-K Yelp Recommendation System
+Python recommendation engine combining structured ratings and review text analysis.
+
+---
+
+## Featured Software Engineering Projects
+
+### Summit Steps
+Mobile application for mountain climbing progress tracking, health monitoring, and route analytics.
+
+### Climb4KidneyCancer
+Mobile application supporting fundraising and activity tracking for kidney cancer awareness.
+
+---
+
+## Education
+
+**Case Western Reserve University**
+B.S. Computer Science
+Minor: Psychology
+
+Graduating Fall 2026
+
+---
+
+## Links
+- LinkedIn: www.linkedin.com/in/chengyuchieh
