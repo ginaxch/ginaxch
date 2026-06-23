@@ -1,68 +1,44 @@
-# Hi, I'm Gina Cheng
+# Hi, I’m Gina Cheng 👋
 
-Computer Science student at Case Western Reserve University pursuing opportunities in Data Analytics, Business Intelligence, and Software Engineering.
+Computer Science @ Case Western Reserve University
+
+Data Analytics • Business Intelligence • Software Engineering
+
 
 ## Technical Skills
 
-### Data Analytics
-- SQL
-- PostgreSQL
-- Tableau
-- Power BI (Learning)
-- Excel
-- Data Visualization
-- Data Modeling
+**Analytics**
+SQL • PostgreSQL • Tableau • Excel
 
-### Programming
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
+**Programming**
+Python • Java • JavaScript
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Tableau Public
+**Web & Mobile**
+HTML • CSS • React Native
 
----
 
-## Featured Data Analytics Projects
+## Featured Projects
 
-### SaaS Customer Analytics Dashboard
-Interactive Tableau dashboard analyzing SaaS revenue, churn, customer engagement, and feature adoption.
+### 📊 Data Analytics
 
-### SaaS Revenue Engagement Pipeline
-PostgreSQL analytics project using joins, CTEs, window functions, and KPI reporting.
+Project	Tech
+- **SaaS Customer Analytics Dashboard**	| Tableau, SQL
+- **SaaS Revenue Engagement Pipeline**	| PostgreSQL
+- **Spotify Global Trends Dashboard**	| Tableau
+- **Top-K Yelp Recommendation System**	| Python
 
-### Spotify Global Trends Dashboard
-Interactive dashboard analyzing Spotify streaming patterns and artist performance.
+### 💻 Software Engineering
 
-### Top-K Yelp Recommendation System
-Python recommendation engine combining structured ratings and review text analysis.
+Project	Tech
+- **Summit Steps**	| React Native, JavaScript
+- **Climb4KidneyCancer**	| React Native
+- **Hotel Booking System**	| Java, SQL
 
----
-
-## Featured Software Engineering Projects
-
-### Summit Steps
-Mobile application for mountain climbing progress tracking, health monitoring, and route analytics.
-
-### Climb4KidneyCancer
-Mobile application supporting fundraising and activity tracking for kidney cancer awareness.
-
----
 
 ## Education
 
-**Case Western Reserve University**
-B.S. Computer Science
-Minor: Psychology
+Case Western Reserve University
 
-Graduating Fall 2026
+B.S. Computer Science | Minor in Psychology
 
----
-
-## Links
-- LinkedIn: www.linkedin.com/in/chengyuchieh
+Graduating Spring 2026
